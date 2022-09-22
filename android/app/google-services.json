@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583454784183",
+    "project_id": "flutter-realtime-crud",
+    "storage_bucket": "flutter-realtime-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583454784183:android:6b9086523a9fc43190ab32",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime_database_crud_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583454784183-55jv23s8aiubs2tpcpelrtig4qqqsgqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_realtime_database_crud_tutorial",
+            "certificate_hash": "099f86be11ed2d00ca2565b57448a3c2af9d4823"
+          }
+        },
+        {
+          "client_id": "583454784183-mos4kvo2o2137ef20886g1bhnec7ir0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS3Vinp6-3dMWuAkpAfphRPgTE05J5c1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583454784183-mos4kvo2o2137ef20886g1bhnec7ir0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
